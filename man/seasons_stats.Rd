@@ -7,6 +7,7 @@
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 24691 rows and 52 columns.}
 \source{
 \url{https://www.kaggle.com/drgilermo/nba-players-stats}
+  \url{https://www.basketball-reference.com/about/glossary.html}
 }
 \usage{
 data(seasons_stats)

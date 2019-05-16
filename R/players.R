@@ -1,6 +1,6 @@
 #' Datasets of NBA players since 1950
 #'
-#' A dataset about NBA player's profile.
+#' A dataset of NBA player's profile.
 #'
 #' @format A data frame with 3,922 rows and 7 variables:
 #' \describe{
