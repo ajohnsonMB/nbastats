@@ -12,8 +12,8 @@
   \item{position}{position of the player}
   \item{Age}{Age of the player}
   \item{Tm}{Team, in 3 letters}
-  ... \n
-  see below for details \n
+  ...
+  for details
   \url{https://www.basketball-reference.com/about/glossary.html}
 }}
 \source{
