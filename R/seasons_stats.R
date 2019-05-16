@@ -1,6 +1,6 @@
 #' Datasets of NBA players' stats since 1950
 #'
-#' A dataset about NBA players' stats.
+#' A dataset of NBA players' stats.
 #'
 #' @format A data frame with 24,691 rows and 52 variables:
 #' \describe{
@@ -13,7 +13,6 @@
 #'   \item{GS}{Games Started (available since the 1982 season)}
 #'   \item{MP}{Minutes Played (available since the 1951-52 season)}
 #'   \item{PER}{Player Efficiency Rating (available since the 1951-52 season); PER is a rating developed by ESPN.com columnist John Hollinger. In John's words, "The PER sums up all a player's positive accomplishments, subtracts the negative accomplishments, and returns a per-minute rating of a player's performance."}
-#'     \url{https://www.basketball-reference.com/about/per.html}
 #'   \item{TS%}{}
 #'   \item{3PAr}{}
 #'   \item{FTr}{}
@@ -58,8 +57,7 @@
 #'   \item{TOV}{}
 #'   \item{PF}{}
 #'   \item{PTS}{}
-#'   \item{for details, see below.}
-#'   \url{https://www.basketball-reference.com/about/glossary.html}
+#'   \item{for details, see below.}{}
 #' }
 #' @docType data
 #'

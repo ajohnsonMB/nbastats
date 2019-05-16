@@ -22,6 +22,6 @@
 data(player_data)
 }
 \description{
-A dataset about NBA player's profile.
+A dataset of NBA player's profile.
 }
 \keyword{datasets}

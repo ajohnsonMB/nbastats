@@ -12,6 +12,6 @@
 data(seasons_stats)
 }
 \description{
-A dataset about NBA players' stats.
+A dataset of NBA players' stats.
 }
 \keyword{datasets}
